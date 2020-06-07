@@ -9,6 +9,7 @@ dependencies {
     //implementation(Deps.kotlin_coroutines)
 
     implementation(Deps.hjson)
+    implementation(Deps.markdowngenerator)
 
     testImplementation(Deps.kotlin_test)
 }

@@ -3,6 +3,7 @@ object Deps {
     const val kotlin_test = "io.kotlintest:kotlintest-runner-junit5:${Versions.kotlin_test}"
 
     const val hjson = "org.hjson:hjson:${Versions.hjson}"
+    const val markdowngenerator = "net.steppschuh.markdowngenerator:markdowngenerator:${Versions.markdowngenerator}"
 }
 
 object Versions {
@@ -11,4 +12,5 @@ object Versions {
     const val kotlin_test = "3.4.2"
 
     const val hjson = "3.0.0"
+    const val markdowngenerator = "1.3.1.1"
 }
