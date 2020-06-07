@@ -27,6 +27,13 @@
       description: 3D printing slicer from Utlimaker
       url: https://ultimaker.com/software/ultimaker-cura
       tags: 3d-printing, 3d-printing:slicer
+    },
+    {
+      type: link
+      title: Thingiverse
+      description: Downloadable models for 3D printing.
+      url: https://www.thingiverse.com/
+      tags: 3d-printing, 3d-printing:model-collections
     }
   ]
 }
