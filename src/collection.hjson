@@ -1,1 +1,11 @@
-{}
+{
+  items: [
+    {
+      type: link
+      title: FreeCAD
+      description: General-purpose parametric 3D CAD
+      url: https://freecadweb.org/
+      tags: CAD, opensource
+    }
+  ]
+}
