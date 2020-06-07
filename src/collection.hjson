@@ -6,6 +6,13 @@
       description: General-purpose parametric 3D CAD
       url: https://freecadweb.org/
       tags: CAD, opensource
+    },
+    {
+      type: link
+      title: OpenSCAD
+      description: Script-based 3D CAD
+      url: https://www.openscad.org/
+      tags: CAD, opensource
     }
   ]
 }
